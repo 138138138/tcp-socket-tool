@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "npx nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "log4js": "^6.4.2"
+  }
+}

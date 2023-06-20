@@ -1,0 +1,7 @@
+POST http://127.0.0.1:60200/api/socket/write HTTP/1.1
+content-type: application/json
+
+{
+    "deviceId": "::ffff:127.0.0.1 53913",
+    "data": "FFAACCBB2333"
+}

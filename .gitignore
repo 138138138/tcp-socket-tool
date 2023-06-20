@@ -1,0 +1,5 @@
+pkg
+uploads
+node_modules
+logs
+dist
